@@ -1,4 +1,4 @@
-# itasset
+# Forked from others
 Membuat RESTful API Dengan Express.js, Sequelize.js dan PostgreSQL
 
 Project ini hasil dari tutorial berikut
